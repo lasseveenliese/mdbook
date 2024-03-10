@@ -1,6 +1,6 @@
 [book]
-authors = ["MaxGietl"]
-language = "en"
+authors = ["Lasse"]
+language = "de"
 multilingual = false
 src = "src"
-title = "Flority & greenhouse. Documentation"
+title = "Mail Ticket Wiki"
