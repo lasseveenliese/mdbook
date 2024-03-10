@@ -18,10 +18,10 @@ Eine neue E-Mail kannst du schreiben, wenn du in dem Postfach bist und auf das B
 Neue E-Mails werden mit dem Status "Aktiv" markiert und sind an niemanden zugewiesen. Geöffnete E-Mails werden nicht automatisch als "Gelesen" markiert.
 
 > #### Bedeutung des Status
-> Aktiv: E-Mails, die angekommen und unbeantwortet sind. \
-> Ausstehend: Beantwortete Mails, bei denen die Antwort der anderen Person aussteht. \
-> Geschlossen: Gespräch ist fertig (Status wird zu "Aktiv" geändert, wenn die andere Person nochmal schreibt) \
-> Spam: Spam Nachrichten
+> **Aktiv:** E-Mails, die angekommen und unbeantwortet sind. \
+> **Ausstehend:** Beantwortete Mails, bei denen die Antwort der anderen Person aussteht. \
+> **Geschlossen:** Gespräch ist fertig (Status wird zu "Aktiv" geändert, wenn die andere Person nochmal schreibt) \
+> **Spam:** Spam Nachrichten
 
 ---
 
