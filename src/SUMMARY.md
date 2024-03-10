@@ -1,3 +1,4 @@
 # Summary
 
-- [Allgemeines](./allgemein.md)
+- [E-Mails](./allgemein.md)
+- [Massenmails](./massenmails.md)
